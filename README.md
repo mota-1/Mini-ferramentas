@@ -30,5 +30,5 @@ Calcula o número com maior número de divisores até 1 milhão usando um crivo 
 ### dominos.py
 Calcula o número de dominós existentes onde o maior número do dominó é determinado pelo usuário.
 
-### Coordenadas.py
+### coordenadas.py
 Mostra as coordenadas do mouse.
