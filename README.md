@@ -4,7 +4,7 @@ Projetos experimentais em python. Arquivos únicos em ordem decrescente de compl
 Arquivos:
 
 ### algoritmos_ordenacao.py
-Implementação em python dos seguintes algoritmos de ordenação: bubble, merge, insertion, gravity counting, radix, bogo, sleep sort, com opção de visualização usando pygame
+Implementação em python dos seguintes algoritmos de ordenação: bubble, merge, insertion, gravity, counting, radix, bogo, sleep sort, com opção de visualização usando pygame
 
 ### maiores_arquivos.py
 Ferramenta para calcular os maiores arquivos em uma pasta (ou nas pastas desta), ou as maiores pastas em uma pasta. Se aplicado na pasta raíz, pode demorar vários minutos. Usa tqdm para mostrar uma barra de progresso.
