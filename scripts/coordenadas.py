@@ -1,10 +1,10 @@
 import pyautogui
 import sys
 
-def atualizar_console(mensagem):
-    sys.stdout.write('\r' + mensagem)
+def update_console(message):
+    sys.stdout.write('\r' + message)
     sys.stdout.flush()
 
 while True:
     x, y = pyautogui.position()
-    atualizar_console(f"Coordenadas do mouse: ({x}, {y})")
+    update_console(f"Coordenadas do mouse: ({x}, {y})")
