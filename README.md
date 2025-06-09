@@ -4,6 +4,7 @@ Projetos experimentais em python. Arquivos únicos em ordem decrescente de compl
 Para instalar os módulos necessários:
 ```bash
 pip install -r requirements.txt
+```
 
 Arquivos:
 
